@@ -4,3 +4,5 @@ This repository contains files/codes for my Data Visualization projects and repo
 https://app.powerbi.com/view?r=eyJrIjoiYjUwZDViN2ItZjA3Ny00ODZhLTlmNzYtYTNmNmViMWViMmQ0IiwidCI6IjFjYjUxODA5LTZjYWQtNDIyNi04OTVlLWQ3YjNiYmFiY2FjZiJ9
 ## Logistic Fleet Managment
 https://app.powerbi.com/view?r=eyJrIjoiY2JiODBiZjktOTJiMy00MGEzLWFkM2ItOWJlNzkxYTI2ZTlhIiwidCI6IjFjYjUxODA5LTZjYWQtNDIyNi04OTVlLWQ3YjNiYmFiY2FjZiJ9
+## human Resources
+https://app.powerbi.com/view?r=eyJrIjoiOTc4MzQzMzEtMzFkNy00NGEwLTg5MzktOTQyYjNiNzAzMDlmIiwidCI6IjFjYjUxODA5LTZjYWQtNDIyNi04OTVlLWQ3YjNiYmFiY2FjZiJ9&pageName=ReportSectionb25f399e20506a020be0
