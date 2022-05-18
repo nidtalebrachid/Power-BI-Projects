@@ -8,3 +8,5 @@ https://app.powerbi.com/view?r=eyJrIjoiY2JiODBiZjktOTJiMy00MGEzLWFkM2ItOWJlNzkxY
 https://app.powerbi.com/view?r=eyJrIjoiOTc4MzQzMzEtMzFkNy00NGEwLTg5MzktOTQyYjNiNzAzMDlmIiwidCI6IjFjYjUxODA5LTZjYWQtNDIyNi04OTVlLWQ3YjNiYmFiY2FjZiJ9&pageName=ReportSectionb25f399e20506a020be0
 ## HPN Project
 https://github.com/nidtalebrachid/-Power-BI-Projects/blob/main/HPN%20Project/HPN%20Project.pdf
+## Finance (Income Statement)
+https://app.powerbi.com/view?r=eyJrIjoiY2RkNzYwYWItYzE5Yi00MGQyLThiNzUtZjZkZDlkZTllZmZmIiwidCI6IjFjYjUxODA5LTZjYWQtNDIyNi04OTVlLWQ3YjNiYmFiY2FjZiJ9
